@@ -32,7 +32,7 @@ collections:
     output: true
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
