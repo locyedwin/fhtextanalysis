@@ -33,7 +33,7 @@ collections:
 
 # Build settings
 # theme: jekyll-theme-cayman
-remote_theme: jekyll-theme-cayman
+remote_theme: cayman
 plugins:
   - jekyll-feed
 
