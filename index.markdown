@@ -7,7 +7,7 @@ layout: default
 ---
 
 {% for text in site.text %}
-  <a href="{{ text.url }}">
+  <a href="{{ text.url | relative_url }}">
   {{ text.title }} </a><br>
 
 {% endfor %}
