@@ -33,7 +33,7 @@ collections:
 
 # Build settings
 # theme: jekyll-theme-cayman
-remote_theme: cayman
+remote_theme: minima
 plugins:
   - jekyll-feed
 
